@@ -32,7 +32,7 @@
 <br>
 <a href="https://github.com/SakshamJuneja007/saksham-persona"><img src="assets/caption-4.gif" alt="IV. Saksham Persona" width="100%"></a>
 <br>
-<a href="https://github.com/SakshamJuneja007/saksham-persona"><img src="project-gifs/saksham-persona.mp4" alt="Saksham Persona demo" width="100%"></a>
+<a href="https://github.com/SakshamJuneja007/saksham-persona"><img src="project-gifs/saksham-persona.gif" alt="Saksham Persona demo" width="100%"></a>
 <br>
 <img src="assets/transition-a.gif" alt="" width="100%">
 <br>
